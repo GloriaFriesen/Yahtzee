@@ -1,0 +1,8 @@
+roll 5 diece
+allow the user to hold or reroll any of the diece
+roll the diece again
+allow user to hold or reroll any of the diece
+roll again
+allow user to pick scoring category
+accrue score
+rinse repeat
